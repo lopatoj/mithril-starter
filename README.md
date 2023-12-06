@@ -1,5 +1,5 @@
 # mithril-starter
-A starter project for the Mithril.js web framework
+A starter project for the Mithril.js web framework.
 
 ## Getting Started
 1. Clone this repo
