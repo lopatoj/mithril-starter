@@ -1,5 +1,3 @@
-import m from "mithril";
-
 const Example = {
   getUserData: (username) => {
     return m.request({

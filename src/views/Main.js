@@ -1,4 +1,3 @@
-import m from "mithril";
 import styles from "~/styles.css";
 
 import Example from "~/components/Example";
