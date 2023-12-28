@@ -1,7 +1,7 @@
 import m from "mithril";
 import styles from "~/styles.css";
 
-import Example from "../components/Example";
+import Example from "~/components/Example";
 
 export default {
   oninit: () => {
@@ -9,8 +9,6 @@ export default {
   },
 
   view: () => {
-    return (
-      <Example>mithril-starter</Example>
-    );
+    return m(Example, "mithril-starter");
   },
 };
